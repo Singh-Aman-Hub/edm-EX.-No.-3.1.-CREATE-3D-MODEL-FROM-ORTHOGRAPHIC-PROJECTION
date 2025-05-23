@@ -1,4 +1,4 @@
-![Screenshot 2025-05-23 130027](https://github.com/user-attachments/assets/94cc1d7a-b025-48c7-acd5-ba66f0d5840c)# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
 ## AIM:
